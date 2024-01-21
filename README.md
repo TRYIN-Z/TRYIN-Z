@@ -16,9 +16,8 @@
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRYIN-Z&show_icons=true&theme=radical)
+
 <br />
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TRYIN-Z&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<br />
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRYIN-Z&layout=compact)](https://github.com/TRYIN-Z/github-readme-stats)
