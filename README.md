@@ -1,7 +1,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TRYIN-Z&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<h1 align="center">Hi 👋, I'm  x - iy</h1>
+<h1 align="center">Hi 👋, I'm TRYIN-Z</h1>
 <h3 align="center">I am a Computer Engineering Student who deeply intrigued by the world of competitive programming.</h3>
 <br />
 <div style="display:flex;">
@@ -17,7 +17,7 @@
   <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmansersawy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRYIN-Z&show_icons=true&theme=radical)
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmansersawy&layout=compact)](https://github.com/abdelrhmansersawy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRYIN-Z&layout=compact)](https://github.com/TRYIN-Z/github-readme-stats)
