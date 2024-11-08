@@ -12,8 +12,6 @@
 
 
   <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
-  <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRYIN-Z&show_icons=true&theme=radical)
 
